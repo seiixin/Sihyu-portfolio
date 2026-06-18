@@ -40,10 +40,10 @@ export default function Contact() {
           <p className="text-gray-400 max-w-xl mx-auto text-sm leading-relaxed">
             Fill out the form and we'll reach back to you through your email address.
             You can also contact us at{' '}
-            <a href="tel:+63XXXXXXXXXX" className="text-lime-400 hover:underline">09XX-XXX-XXXX</a>
+            <a href="tel:+63XXXXXXXXXX" className="text-lime-400 hover:underline">0992 804 1384</a>
             {' '}or{' '}
-            <a href="mailto:hello@sihyusolutions.com" className="text-lime-400 hover:underline">
-              hello@sihyusolutions.com
+            <a href="mailto:sihyusolutions.dev@gmail.com" className="text-lime-400 hover:underline">
+              sihyusolutions.dev@gmail.com
             </a>
           </p>
         </div>
