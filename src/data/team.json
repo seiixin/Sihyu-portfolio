@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Sidney G. Pagdanganan",
+    "role": "Founder & CEO",
+    "image": "Team/Sidney.jpg"
+  },
+  {
+    "id": 2,
+    "name": "John Lester Legaspi",
+    "role": "Co-Founder & CTO",
+    "image": "Team/JohnDev.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Aliyah Nicole R. Mactal",
+    "role": "Co-Founder & COO",
+    "image": "Team/Synn.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Angelo Medina",
+    "role": "UI/UX Designer",
+    "image": "Team/Angelo.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mhira Shane O. Pato",
+    "role": "Software Developer",
+    "image": "Team/Mhira.png"
+  },
+  {
+    "id": 6,
+    "name": "Kenneth Gabren Oakes",
+    "role": "Software Developer",
+    "image": "Team/Kenneth.png"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Laravel",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg",
+    "category": "Backend"
+  },
+  {
+    "id": 2,
+    "name": "Kotlin",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg",
+    "category": "Mobile"
+  },
+  {
+    "id": 3,
+    "name": "React Native",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "category": "Mobile"
+  },
+  {
+    "id": 4,
+    "name": "ReactJS",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "category": "Frontend"
+  },
+  {
+    "id": 5,
+    "name": "Linux",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
+    "category": "DevOps"
+  },
+  {
+    "id": 6,
+    "name": "Swift",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg",
+    "category": "Mobile"
+  },
+  {
+    "id": 7,
+    "name": "PHP",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
+    "category": "Backend"
+  },
+  {
+    "id": 8,
+    "name": "VueJS",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
+    "category": "Frontend"
+  },
+  {
+    "id": 9,
+    "name": "Svelte",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg",
+    "category": "Frontend"
+  },
+  {
+    "id": 10,
+    "name": "Android Java",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg",
+    "category": "Mobile"
+  },
+  {
+    "id": 11,
+    "name": "MariaDB",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg",
+    "category": "Database"
+  },
+  {
+    "id": 12,
+    "name": "PostgreSQL",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+    "category": "Database"
+  },
+  {
+    "id": 13,
+    "name": "Firebase",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+    "category": "Backend"
+  },
+  {
+    "id": 14,
+    "name": "Supabase",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg",
+    "category": "Backend"
+  },
+  {
+    "id": 15,
+    "name": "and more",
+    "icon": "",
+    "category": "Other",
+    "isMore": true
+  }
+]

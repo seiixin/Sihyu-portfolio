@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Sihyu IT Solutions is Now DTI-Registered!",
+    "summary": "We are proud to announce that Sihyu IT Solutions is officially registered with the Department of Trade and Industry (DTI). This milestone marks our commitment to delivering professional, compliant, and trustworthy IT services to every client.",
+    "fullDescription": "Sihyu IT Solutions is proud to announce its complete and official business registration with the Department of Trade and Industry (DTI) of the Philippines. This registration is a major milestone that affirms our dedication to operating with full compliance, transparency, and professionalism. As a DTI-registered business, our clients can engage with us with full confidence knowing that Sihyu IT Solutions is a legitimate and accountable technology partner. We are here to serve you — building smart, scalable, and secure digital solutions for a better tomorrow.",
+    "image": "/News/DTI-REGISTERED.jpg",
+    "date": "2026-05-10",
+    "category": "Announcement",
+    "badge": "Official"
+  },
+  {
+    "id": 2,
+    "title": "Sihyu IT Solutions Published a Design for a POS-Integrated E-Commerce System",
+    "summary": "Sihyu IT Solutions has published a design for an E-Commerce System featuring a fully integrated POS module — combining online storefront management with in-store sales operations into one seamless platform.",
+    "fullDescription": "Sihyu IT Solutions has published a new design concept for an E-Commerce System with a built-in Point-of-Sale (POS) module. This solution is designed to unify a business's online and physical sales channels, eliminating the need for separate platforms and reducing operational complexity.\n\nWith this system, businesses can manage product listings, process in-store transactions, and track inventory across all channels in real time. The POS integration means that every sale — whether made online or at a physical counter — is automatically reflected in the same inventory and reporting dashboard.\n\nThis design can potentially enhance client operations by reducing manual reconciliation, preventing stock discrepancies, improving checkout speed, and providing a unified view of sales performance across all channels.",
+    "image": "/WhatWeCanDoForYou/POS-Systems.png",
+    "date": "2026-04-22",
+    "category": "Design Release",
+    "badge": "New"
+  },
+  {
+    "id": 3,
+    "title": "Sihyu IT Solutions Published a Design for a Smart Inventory Management System",
+    "summary": "Sihyu IT Solutions has published a design for an Inventory Management System that can help businesses track stock levels, orders, and deliveries in real time — reducing manual errors and improving warehouse efficiency.",
+    "fullDescription": "Sihyu IT Solutions has released a design for a Smart Inventory Management System built to address the common pain points of businesses managing large volumes of goods. The system is designed to provide real-time visibility into stock levels, automate reorder alerts, and generate detailed reports on product movement.\n\nBy centralizing inventory data, businesses can avoid overstocking and stockouts, reduce losses from expired or misplaced items, and streamline the entire supply chain from procurement to delivery.\n\nThis design can potentially enhance client operations by cutting down on manual stock counts, reducing human error in order fulfillment, and giving management actionable data to make smarter purchasing decisions — all from a single, easy-to-use dashboard.",
+    "image": "/WhatWeCanDoForYou/Inventory-Systems.png",
+    "date": "2026-03-15",
+    "category": "Design Release",
+    "badge": "New"
+  },
+  {
+    "id": 4,
+    "title": "Sihyu IT Solutions Published a Design for a GIS-Based Operations Platform",
+    "summary": "Sihyu IT Solutions has published a design for a Geographic Information System (GIS) platform that enables organizations to visualize, analyze, and act on spatial data — opening new possibilities for smarter operational decision-making.",
+    "fullDescription": "Sihyu IT Solutions has unveiled a design for a GIS-Based Operations Platform, tailored for organizations that rely on location data to manage their resources, assets, or services. The platform is designed to transform raw geographic data into actionable visual maps and dashboards.\n\nFrom logistics route optimization to infrastructure monitoring, the system allows teams to overlay multiple data layers — such as asset locations, delivery zones, and terrain information — onto interactive maps for better situational awareness.\n\nThis design can potentially enhance client operations by reducing travel inefficiencies, improving resource deployment, enabling faster response to field events, and supporting data-driven planning for expansion or infrastructure development.",
+    "image": "/WhatWeCanDoForYou/GIS-Systems.png",
+    "date": "2026-02-08",
+    "category": "Design Release",
+    "badge": "New"
+  }
+]

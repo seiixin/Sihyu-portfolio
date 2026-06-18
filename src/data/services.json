@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Inventory Systems",
+    "description": "A powerful inventory management system that helps businesses track stock levels, orders, sales, and deliveries in real time. Streamline your warehouse operations and reduce manual errors with our smart, scalable solution.",
+    "image": "/WhatWeCanDoForYou/Inventory-Systems.png",
+    "link": "#",
+    "buttonText": "View Website"
+  },
+  {
+    "id": 2,
+    "title": "POS Systems",
+    "description": "A modern Point-of-Sale system designed for retail and food service businesses. Manage transactions, generate reports, track sales performance, and improve customer experience — all from one intuitive platform.",
+    "image": "/WhatWeCanDoForYou/POS-Systems.png",
+    "link": "#",
+    "buttonText": "View Website"
+  },
+  {
+    "id": 3,
+    "title": "Reservation Systems",
+    "description": "An efficient reservation and booking management system that allows businesses to handle appointments, room bookings, and scheduling seamlessly. Reduce no-shows and improve customer satisfaction with automated reminders.",
+    "image": "/WhatWeCanDoForYou/Reservation-Systems.png",
+    "link": "#",
+    "buttonText": "View Website"
+  },
+  {
+    "id": 4,
+    "title": "GIS Systems",
+    "description": "A Geographic Information System solution that enables organizations to visualize, analyze, and interpret spatial data. Perfect for urban planning, logistics, agriculture, and resource management use cases.",
+    "image": "/WhatWeCanDoForYou/GIS-Systems.png",
+    "link": "#",
+    "buttonText": "View Website"
+  },
+  {
+    "id": 5,
+    "title": "Real Estate Management Systems",
+    "description": "A comprehensive real estate management platform to handle property listings, tenant management, lease tracking, and financial reporting. Simplify property operations for agents and property managers alike.",
+    "image": "/WhatWeCanDoForYou/Real-Estate-Management-Systems.png",
+    "link": "#",
+    "buttonText": "View Website"
+  },
+  {
+    "id": 6,
+    "title": "Construction Project Management System",
+    "description": "A robust construction project management tool that helps contractors and project managers plan, schedule, budget, and monitor projects from start to finish. Keep teams aligned and projects on track.",
+    "image": "/WhatWeCanDoForYou/Construction-Project-Management-System.png",
+    "link": "#",
+    "buttonText": "View Website"
+  }
+]
