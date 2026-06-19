@@ -21,7 +21,10 @@ export default function WeCanDoForYou() {
         <div className="text-center mb-10 sm:mb-14">
           <p className="text-lime-400 text-sm font-semibold tracking-widest uppercase mb-3">Portfolio</p>
           <h2 className="text-3xl sm:text-4xl font-black text-lime-400 mb-3">WE CAN DO FOR YOU</h2>
-          <div className="w-20 h-1 bg-lime-500 mx-auto rounded-full" />
+          <div className="w-20 h-1 bg-lime-500 mx-auto rounded-full mb-4" />
+          <p className="text-gray-400 max-w-2xl mx-auto text-sm sm:text-base leading-relaxed">
+            Explore our custom system blueprints. These are ready-made design concepts that we can build, customize, and develop into a fully functional full-stack system tailored to your business needs.
+          </p>
         </div>
 
         {/* Mobile: horizontal scrollable chip tabs */}
