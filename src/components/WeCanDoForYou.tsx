@@ -83,7 +83,7 @@ export default function WeCanDoForYou() {
 
               {/* Content */}
               <div className="md:w-2/5 p-5 sm:p-8 flex flex-col justify-center">
-                <p className="text-lime-400 text-xs font-semibold tracking-widest uppercase mb-2">Featured Project</p>
+                <p className="text-lime-400 text-xs font-semibold tracking-widest uppercase mb-2">Featured Design</p>
                 <h3 className="text-xl sm:text-2xl font-black text-white mb-3 sm:mb-4">{selected.title}</h3>
                 <p className="text-gray-400 leading-relaxed mb-6 sm:mb-8 text-sm">{selected.description}</p>
                 <a
