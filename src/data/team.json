@@ -34,5 +34,11 @@
     "name": "Kenneth Gabren Oakes",
     "role": "Software Developer",
     "image": "Team/Kenneth.png"
+  },
+    {
+    "id": 7,
+    "name": "Cristhine Ronquillo Elopre",
+    "role": "Marketing Specialist",
+    "image": "Team/Cristhine.png"
   }
 ]

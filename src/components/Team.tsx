@@ -57,7 +57,7 @@ export default function Team() {
               >
                 <div className="relative overflow-hidden bg-[#0d1f0d]">
                   <img
-                    src={member.image}
+                    src={member.image.startsWith('/') ? member.image : `/${member.image}`}
                     alt={member.name}
                     className="w-full h-auto block"
                   />
